@@ -12,7 +12,7 @@ Vectorization
 ![vectorization](https://github.com/KrutikaShindeGH/-Mario-AI-Model-Using-Gaming-Reinforcement-Learning/assets/138847255/c2cd3ed9-dbde-48c3-a1fb-87055f2e2d1e)
 
 Initial Stage Agent Taking Random Actions
-https://github.com/KrutikaShindeGH/-Mario-AI-Model-Using-Gaming-Reinforcement-Learning/assets/138847255/a32b46c9-5f44-428d-b005-8e4745e7bc47 
+![](https://github.com/KrutikaShindeGH/-Mario-AI-Model-Using-Gaming-Reinforcement-Learning/assets/138847255/a32b46c9-5f44-428d-b005-8e4745e7bc47)
 
 Trained For 1M steps 
 https://github.com/KrutikaShindeGH/-Mario-AI-Model-Using-Gaming-Reinforcement-Learning/assets/138847255/0c3b684a-b2e5-42ff-87e3-fa0c3ff64d21
